@@ -1,4 +1,4 @@
-# Mark Justin Riquez - Portoflio
+# Mark Justin Riquez - Portfolio
 
 ## About Me
 I am a BSEMC Student specializing in Game Development, mainly Unity, and a little bit of Unreal Engine 5. 
